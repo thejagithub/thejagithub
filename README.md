@@ -1,18 +1,18 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- 😄 I’m Devshan, a Information Technology undergraduate at SLIIT.
+- 😄 I’m Thejana, a Computer Science undergraduate at IIT.
 - 🌱 I enjoy learning new technologies.
-- 🔭 Find me on https://devshanliyanage.me/
+
 
 
 
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
@@ -47,9 +47,9 @@
 
 
 
-[facebook]: https://www.facebook.com/devshanliyange/
-[instagram]: https://www.instagram.com/dev_va_/
-[linkedin]: https://www.linkedin.com/in/devshan-liyanage-a10412216/
+
+
+[linkedin]: https://www.linkedin.com/in/thejanaravindu/
 [webdevplaylist]:#
 [jsplaylist]:#
 [cssplaylist]:#
