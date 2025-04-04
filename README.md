@@ -10,6 +10,7 @@ As a fresher in the field, I am continuously exploring cloud technologies, autom
 💼 **LinkedIn**: [https://www.linkedin.com/in/thejanaravindu/]  
 📧 **Email**: [thejanaravindu2000@gmail.com]  
 🌐 **Portfolio**: *(Coming Soon!)*  
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ---
 
