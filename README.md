@@ -1,8 +1,11 @@
 <h1 align="center">Hi there 👋, I am Thejana Ravindu</h1>
 <h3 align="center">A passionate DevOps Engineer from Sri Lanka</h3>
 
+
+
 🌱 I’m working eagerly to bridge the gap between development and operations.  
 As a fresher in the field, I am continuously exploring cloud technologies, automation tools, and CI/CD pipelines to build efficient and scalable solutions.  
+<img align="right" alt="Coding" width="275" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 
@@ -10,7 +13,7 @@ As a fresher in the field, I am continuously exploring cloud technologies, autom
 💼 **LinkedIn**: [https://www.linkedin.com/in/thejanaravindu/]  
 📧 **Email**: [thejanaravindu2000@gmail.com]  
 🌐 **Portfolio**: *(Coming Soon!)*  
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 ---
 
