@@ -12,7 +12,7 @@ As a fresher in the field, I am continuously exploring cloud technologies, autom
 ## 🔹 Let’s Connect!  
 💼 **LinkedIn**: [https://www.linkedin.com/in/thejanaravindu/]  
 📧 **Email**: [thejanaravindu2000@gmail.com]  
-🌐 **Portfolio**: *(Coming Soon!)*  
+🌐 **Portfolio**: [https://www.theja.dev/]  
 
 
 ---
