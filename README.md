@@ -1,11 +1,14 @@
-<h1 align="center">Hi there 👋, I am Thejana Ravindu</h1>
+<div align="center">
+  <img alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="width: 250px; height: auto;">
+</div>
+  <h1 align="center">Hi there 👋, I am Thejana Ravindu</h1>
 <h3 align="center">A passionate DevOps Engineer from Sri Lanka</h3>
 
 
 
 🌱 I’m working eagerly to bridge the gap between development and operations.  
 As a fresher in the field, I am continuously exploring cloud technologies, automation tools, and CI/CD pipelines to build efficient and scalable solutions.  
-<img align="right" alt="Coding" width="275" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 ---
 
